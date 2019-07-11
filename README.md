@@ -1,2 +1,2 @@
-# my_laravel_ecommerce
-my_laravel_ecommerce
+# lara_ecommerce_project
+lara_ecommerce_project by alamin
